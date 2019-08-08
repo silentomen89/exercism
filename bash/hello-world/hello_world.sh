@@ -6,4 +6,4 @@ main(){
   echo "Hello, World!"
 }
 
-main $"{@}"
+main "${@}"

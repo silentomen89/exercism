@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #
+# Two-Fer Solution (exercism.io)
 # Written by David Andrews
 
 main(){

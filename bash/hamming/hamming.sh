@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #
+# Hamming Solution (exercism.io)
 # Written by David Andrews
 
 main(){

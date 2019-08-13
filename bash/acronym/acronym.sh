@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #
+# Acronym Solution (exercism.io)
 # Written by David Andrews
 
 # Regex to check against

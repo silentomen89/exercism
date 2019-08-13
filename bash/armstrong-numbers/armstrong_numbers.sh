@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #
+# Armstrong Numbers Solution (exercism.io)
 # Written by David Andrews
 
 num="${1}"

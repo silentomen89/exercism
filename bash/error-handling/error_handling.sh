@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #
+# Error Handling Solution (exercism.io)
 # Written by David Andrews
 
 # Initializing variables

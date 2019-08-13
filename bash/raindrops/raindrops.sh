@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #
+# Raindrops Solution (exercism.io)
 # Written by David Andrews
 
 re='^[0-9]+$'
